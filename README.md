@@ -22,7 +22,7 @@ used in enterprise security operations centers (SOC).
 - Purpose: Hands-on learning & portfolio project
 
 ## Installation Progress
-- [ ] Elasticsearch — Installation & configuration
+- [x] Elasticsearch — Installation & configuration
 - [ ] Kibana — Installation & configuration
 - [ ] Logstash — Installation & configuration
 - [ ] Beats Integration — Log sources

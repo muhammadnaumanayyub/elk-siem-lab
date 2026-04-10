@@ -40,4 +40,26 @@ df -h
 
 # Check Ubuntu version
 lsb_release -a
-```
+``
+
+
+## System Resources (Verified)
+| Resource | Available |
+|----------|-----------|
+| RAM | 3.8GB |
+| Disk | 79GB |
+| CPU | 1 core |
+| OS | Ubuntu 24.04 LTS |
+
+## Memory Allocation Plan
+| Component | Allocated RAM |
+|-----------|--------------|
+| Elasticsearch | 1GB |
+| Logstash | 512MB |
+| Kibana | 512MB |
+| OS & other | ~1.8GB |
+
+## Access Plan
+- Kibana will be accessed via browser on Windows PC
+- URL: http://YOUR_VPS_IP:5601
+- UFW firewall will restrict access to your IP only`

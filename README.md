@@ -23,7 +23,7 @@ used in enterprise security operations centers (SOC).
 
 ## Installation Progress
 - [x] Elasticsearch — Installation & configuration
-- [ ] Kibana — Installation & configuration
+- [x] Kibana — Installation & configuration
 - [ ] Logstash — Installation & configuration
 - [ ] Beats Integration — Log sources
 
